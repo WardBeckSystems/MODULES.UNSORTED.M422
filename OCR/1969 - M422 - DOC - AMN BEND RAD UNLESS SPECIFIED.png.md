@@ -1,5 +1,5 @@
 # 1969 - M422 - DOC - AMN BEND RAD UNLESS SPECIFIED.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1969 (found in this ad: "DATE SEPT69")
@@ -76,7 +76,7 @@ ISs
 
 ```json
 {
- "file": "Modules/UNSORTED/M422/1969 - M422 - DOC - AMN BEND RAD UNLESS SPECIFIED.png",
+ "file": "Modules/UNSORTED/M422/MECHANICAL/1969 - M422 - DOC - AMN BEND RAD UNLESS SPECIFIED.png",
  "sha256": "a717e5e7ccdc63cd1ffa9d3ba51bd9cadc112bd97e3cceeb35ef659d54f6ed00",
  "kind": "doc",
  "models": [
