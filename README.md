@@ -21,6 +21,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1iQH15SOTAGvguYImKPD_vqMPf0FdfBae/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1iQH15SOTAGvguYImKPD_vqMPf0FdfBae" width="240" alt="1969 - M422 - DOC - AMN BEND RAD UNLESS SPECIFIED.png"></a><br><sub>1969|2 · DOC - AMN BEND RAD UNLESS SPECIFIED · <a href="MECHANICAL/1969%20-%20M422%20-%20DOC%20-%20AMN%20BEND%20RAD%20UNLESS%20SPECIFIED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M422.stl`](MECHANICAL/M422.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M422)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M422 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M422.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
