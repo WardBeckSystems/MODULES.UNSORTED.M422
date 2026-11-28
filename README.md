@@ -1,6 +1,6 @@
 # M422 · Unsorted
 
-Ward-Beck Systems M422, 1969|2. Wiki page: [M422 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M422.html)
+Ward-Beck Systems M422, 1969|2. Wiki page: [M422 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M422/)
 
 | Folder | What is in it | Files |
 |---|---|---|
